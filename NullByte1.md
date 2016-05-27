@@ -1,5 +1,5 @@
 ### NullByte 1 boot2root writeup:
-
+    (sorry for how this looks)
     After doing a couple of the boot2roots on vulnhub.com, I decided to start writing up some of my work.
     
     So to start off with the usual:
