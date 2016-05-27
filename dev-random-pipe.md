@@ -1,8 +1,10 @@
-### /dev/random pipe boot2root
+### /dev/random pipe boot2root 
+
+( sorry again for how this looks...need to fix it up)
   
-  /dev/random pipe is a boot2root from vulhub.com
+  /dev/random pipe is a boot2root from vulnhub.com
   
-  ##STEP 1: machine finger-printing:
+  #STEP 1: machine finger-printing:
       - nmap -sT -V -A -p 1-65535 [vm-ip]
       
       It was found that ports 22,80, 111, and 40496. The only interesting one right now being 80.
